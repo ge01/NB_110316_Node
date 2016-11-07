@@ -1,4 +1,3 @@
-
 function placeAnOrder(orderNumber){
   console.log("Customer order:", orderNumber);
 
