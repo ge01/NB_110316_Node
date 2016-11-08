@@ -1,5 +1,5 @@
 console.log(__dirname);
-console.log(__dirname);
+// console.log(__dirname);
 /*
 // This interval runs repeatedly
 setInterval(function (){
